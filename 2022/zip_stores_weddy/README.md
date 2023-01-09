@@ -2,7 +2,7 @@
 
 # About me
 * Name: Weddy Gikunda
-* Linkedin: [Weddy Gikunda](https://www.linkedin.com/in/weddy-gikunda-6749351a1?)
+* Website: https://caviere.github.io/
 * Location: Nairobi,Kenya
 
 # Project Information
@@ -20,4 +20,7 @@ Zarr is an open-source data format for storing chunked, compressed N-dimensional
 
 # Week 1 & 2
 * Going through the existing zarr codebase.
-* Create a ZipStore in zarr-python and test the support across various Zarr implementations
+* [Create a ZipStore in zarr-python and test the support across various Zarr implementations](https://github.com/caviere/testing_zipstore)
+
+# Week 3 & 4
+* [Create a script that reads and writes Zarr arrays using directory and zip stores](https://github.com/caviere/script)
