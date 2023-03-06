@@ -19,7 +19,7 @@ Zarr is an open-source data format for storing chunked, compressed N-dimensional
 
 # Tasks Done
 * Going through the existing zarr codebase.
-* [Created a ZipStore in zarr-python and tested the support across various Zarr implementations](https://github.com/caviere/testing_zipstore)
+* [Used real world data to test the support across various Zarr implementations](https://github.com/caviere/testing_zipstore/blob/main/real%20%20world%20data/main.py)
 * [Created a MNIST Dataset script](https://github.com/caviere/testing_zipstore/blob/main/py/example.py)
 * [Created a benchmark script that reads and writes Zarr arrays using directory, zip and fsspec stores](https://github.com/caviere/testing_zipstore/blob/main/benchmark/main.py)
 * [Created a script that benchmarks the timings it takes to fetch data from a zipstore, LRU cache and in memory store using uniform and zipfian distributions](https://github.com/caviere/testing_zipstore/tree/main/cache)
